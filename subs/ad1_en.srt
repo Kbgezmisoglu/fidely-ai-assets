@@ -15,5 +15,5 @@ What is this?
 What is this?
 
 5
-00:00:17,300 --> 00:00:19,800
+00:00:19,200 --> 00:00:23,500
 Point your camera at anything green.
